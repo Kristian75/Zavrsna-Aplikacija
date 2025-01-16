@@ -1,0 +1,12 @@
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\bin\Debug\Zavrsna Aplikacija.exe.config
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\bin\Debug\Zavrsna Aplikacija.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\bin\Debug\Zavrsna Aplikacija.pdb
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna Aplikacija.csproj.AssemblyReference.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna_Aplikacija.GlavnaForma.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna_Aplikacija.FormaLjubimac.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna_Aplikacija.FormaPretrazi.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna_Aplikacija.Properties.Resources.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna Aplikacija.csproj.GenerateResource.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna Aplikacija.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\Desktop\Zavrsna-Aplikacija-main\Zavrsna Aplikacija\Zavrsna Aplikacija\obj\Debug\Zavrsna Aplikacija.pdb
