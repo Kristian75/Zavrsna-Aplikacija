@@ -1,0 +1,20 @@
+<Ljubimci>
+  <Ljubimac>
+    <Ime>SWEgsg</Ime>
+    <Vrsta>sdgdgsgs</Vrsta>
+    <Pasmina>sdgsd</Pasmina>
+    <DatumRodenja>2025-03-25</DatumRodenja>
+    <DatumCijepljenja>2025-03-25</DatumCijepljenja>
+    <PosjetVeterinaru>sdgsd</PosjetVeterinaru>
+  </Ljubimac>
+  <Ljubimac>
+    <Ime>afas</Ime>
+    <Vrsta>sgsdfgsg</Vrsta>
+    <Pasmina>sgsdg</Pasmina>
+    <DatumRodenja>2025-03-25</DatumRodenja>
+    <DatumCijepljenja>2025-03-25</DatumCijepljenja>
+    <PosjetVeterinaru>sgsg</PosjetVeterinaru>
+  </Ljubimac>
+  <Zivotinja Ime="Rex" Vrsta="Pas" Pasmina="Vucjak" />
+  <Zivotinja Ime="Paco" Vrsta="Macka" Pasmina="Sijamska" />
+</Ljubimci>
